@@ -1,0 +1,97 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-weight: 400;
+}
+#container
+{
+    height: 100%;
+    width: 100%;
+
+    
+}
+
+#leftdiv
+{
+    position: relative;
+    float: left;
+    background-color:darkslategray;
+    width: 25%;
+    height: 95%;
+}
+#rightdiv
+{
+    float:right;
+    width:75%;
+    height:95%;
+    background-color:lightgrey;
+}
+.contact
+{
+    padding-left:9%;
+    padding-top: 0%; 
+    color: white;
+    font-size: large;
+}
+a:link
+{
+    color: white;
+    text-decoration: none;
+}
+a:visited
+{
+    color: black;
+
+}
+a:hover
+{
+    color:black;
+    text-decoration: none;
+}
+#first-heading
+{
+    padding: 4% 0 0 5%;
+    font-size: 60px;
+    margin: 0;
+    color: darkslategray;
+}
+#second-h2
+{
+    margin: 0;
+    padding-left: 5%;
+    padding-top: 25px;
+    color: darkslategray;
+}
+#line1
+{
+    height: 3px;
+    width: 90px;
+    margin: 4px 0;
+    background: darkslategray;
+    
+}
+#img-div
+{
+    text-align: center;
+}
+.edulist
+{
+    padding-left: 5%;
+    font-size: 18px;
+}
+.list-group-item1
+{
+    margin-top: -15px;
+    color: #707070;
+}
+.list-group-item2
+{
+    color: #707070;
+}
+.heading-color
+{
+    color: darkslategray;
+}
+.tenure
+{
+    margin-left: 30%;
+}
